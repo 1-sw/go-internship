@@ -24,18 +24,12 @@
     <th>Description</th>
     <th>Link</th>
   </tr>
-  <?php
-    for($x=0; $x<5; $x++){
-    ?>
-        <tr>
-          <th>Day number</th>
-          <th>Date</th>
-          <th>Hours</th>
-          <th>Description</th>
-          <th>Link</th>
-        </tr>
-    <?php
-    }
-    ?>
+  <tr>
+    <th>1</th>
+    <th>22.12.2020</th>
+    <th>+-2</th>
+    <th>First meeting, prepare go roadmap, some staff with documents.</th>
+    <th>link</th>
+  </tr>
 </table>
 
