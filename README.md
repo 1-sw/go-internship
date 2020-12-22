@@ -12,7 +12,8 @@
 <ol>
   <li>Every internship day I`ll start by adding directory (you can see progress in it)</li>
   <li>Every directory has same structure to simplify learning process</li>
-  <li>Some pattern for the go project you may see <a href="https://github.com/golang-standards/project-layout">here</a></li>
+  <li>Some pattern for the go project you may see 
+        <a href="https://github.com/golang-standards/project-layout">here</a></li>
 </ol>
 
 <p>Every day description<br>
