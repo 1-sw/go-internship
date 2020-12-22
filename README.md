@@ -30,7 +30,7 @@
     <th>1</th>
     <th>22.12.2020</th>
     <th>+-2</th>
-    <th>First meeting, prepare go roadmap, simple research, some staff with documents.(<a href="https://github.com/1-sw/go-internship/day/1/ABOUT.md">more</a>)</th>
+    <th>First meeting, prepare go roadmap, simple research, some staff with documents.(<a href="https://github.com/1-sw/go-internship/blob/main/day/1/ABOUT.md">more</a>)</th>
     <th><a href="https://github.com/go-internship/day/1">Link</a></th>
   </tr>
 
