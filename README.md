@@ -24,4 +24,19 @@
     <th>Description</th>
     <th>Link</th>
   </tr>
+  <?php
+    for($x=0; $x<5; $x++){
+    ?>
+        <tr>
+          <th>Day number</th>
+          <th>Date</th>
+          <th>Hours</th>
+          <th>Description</th>
+          <th>Link</th>
+        </tr>
+    <?php
+    }
+    ?>
+  ?>
 </table>
+
