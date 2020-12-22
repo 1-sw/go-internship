@@ -1,4 +1,4 @@
-# go-internship
+# Progress until go internship
 
 <p>In this repo:<br>
 <ul>
@@ -8,6 +8,11 @@
   <li>Exercises</li>
 </ul>
 
-<p>About file structure and this repo</p>
-<br>Every internship day I`ll start by adding directory which equals to current date,
-<br>for example, Day 1 - day.mounth.year
+<p> About file structure and this repo:<br>
+<ul>
+  <li>Every internship day I`ll start by adding directory (you can see progress in it)</li>
+  <li>Every directory has same structure to simplify learning process</li>
+</ul
+
+
+
