@@ -4,8 +4,8 @@
 
   <ul>
     <li>First meeting (interview)</li>
-    <li>Simple research (
-       <a href="https://golangdocs.com/install-go-linux">install go on *nix<a/>,
+    <li>Simple research (<a href="https://golangdocs.com/install-go-linux">install go on *nix<a/>,
+    <a href="https://gobyexample.com/hello-world">Run and build *.go files</a>
     )</li>
   </ul>
 
