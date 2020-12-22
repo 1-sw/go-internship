@@ -1,12 +1,10 @@
-//go run your_file.go
-//go build your_file.go => ./your_file
-
+//package is way to group functions
 package main
 
-import {
-  "fmt"
-}
+//fmt - package(lib) which containes staff for text formatting
+import "fmt"
 
+//main - default function which runs at first (entry point)
 func main() {
     fmt.Println("Hello, go internship!")
 }
