@@ -38,10 +38,10 @@
   <tr>
     <th>2</th>
     <th>23.12.2020</th>
-    <th>+-3</th>
-    <th>Working on base constructions, building go from sources e.t.c <a href="https://github.com/1-sw/go-internship/blob/main/day/2/ABOUT.md">-></a></th>
+    <th>+-6</th>
+    <th>Working on base constructions, building go from sourcese.t.c <a href="https://github.com/1-sw/go-internship/blob/main/day/2/ABOUT.md">-></a></th>
     <th><a href="https://github.com/1-sw/go-internship/blob/main/day/2/">Files</a></th>
- 
+  </tr> 
 
 
 
