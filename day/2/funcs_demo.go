@@ -1,3 +1,5 @@
+//No lambdas (inline funcs) in go
+
 package main
 
 import (
@@ -36,7 +38,6 @@ func randInt() int {
     rand.Seed(time.Now().UnixNano())
     return rand.Intn(10)
 }
-
 
 func PrintName(name string) func() {
     return func() {

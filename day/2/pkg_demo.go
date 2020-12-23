@@ -1,11 +1,9 @@
 //Matrix generator demo
-
-
 //[+]every go programm consist of packages
 //[+]every go programm starts with main
 package main
 
-//[*]
+
 import (
     "fmt"
     "time"
