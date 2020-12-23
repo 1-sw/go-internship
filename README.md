@@ -30,10 +30,20 @@
   <tr>
     <th>1</th>
     <th>22.12.2020</th>
-    <th>+-2</th>
+    <th>+-7</th>
     <th>First meeting, prepare go roadmap, simple research, some staff with documents <a href="https://github.com/1-sw/go-internship/blob/main/day/1/ABOUT.md">-></a></th>
     <th><a href="https://github.com/1-sw/go-internship/blob/main/day/1/">Files</a></th>
   </tr>
+
+  <tr>
+    <th>2</th>
+    <th>23.12.2020</th>
+    <th>+-3</th>
+    <th>Working on base constructions, building go from sources e.t.c <a href="https://github.com/1-sw/go-internship/blob/main/day/2/ABOUT.md">-></a></th>
+    <th><a href="https://github.com/1-sw/go-internship/blob/main/day/2/">Files</a></th>
+ 
+
+
 
 </table>
 
