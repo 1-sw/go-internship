@@ -1,0 +1,18 @@
+Time:
+    This is summary time without rests, timeouts etc.
+    This is non strict value. +- 1 hour per every day
+
+Files:
+    Files which I create at this day.
+    There: demos,examples,questions,etc.
+
+Day number + Date:
+    This fields added for more beautiful table
+    viewing and comfortable reading, analyzing etc.
+
+Description:
+    Short descrption. For more info You may press
+    the `->` this is link which redirecting to the
+    ABOUT.md file of every day dir (day/*/ABOUT.md)
+
+
