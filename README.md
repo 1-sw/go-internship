@@ -1,12 +1,13 @@
 # Progress until go internship
-
 <p>In this repo:<br>
+
 <ol>
   <li><a href="https://github.com/1-sw/go-internship/tree/main/txt">Simple notes</a></li>
   <li>Sources</li>
   <li>Questions</li>
   <li>Exercises</li>
 </ol>
+
 <p>About file structure and this repo:<br>
 <ol>
   <li>Every internship day I`ll start by adding directory (you can see progress in it)</li>
@@ -44,8 +45,8 @@
   <tr>
     <th>3</th>
     <th>24.12.2020</th>
-    <th>+-5</th>
-    <th>Working on book tasks, reading, writing types demo, Join slack! <a href="https://github.com/1-sw/go-internship/blob/main/day/3/ABOUT.md">-></a></th></th>
+    <th>+-6</th>
+    <th>Working on book tasks, reading, writing types demo, Join slack!<a href="https://github.com/1-sw/go-internship/blob/main/day/3/ABOUT.md">-></a></th>
     <th><a href="https://github.com/1-sw/go-internship/blob/main/day/3/">Files</a></th>
   </tr>
 

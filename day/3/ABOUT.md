@@ -4,8 +4,9 @@
     <li>Reading
 	      (
 	        <a href="https://medium.com/golangspec/conversions-in-go-4301e8d84067">types and convertions</a>,
-          <a href="https://golangbyexample.com/all-basic-data-types-golang/">data types</a>,
-          <a href="https://tour.golang.org/basics/7">named values</a>
+                <a href="https://golangbyexample.com/all-basic-data-types-golang/">data types</a>,
+                <a href="https://tour.golang.org/basics/7">named values</a>,
+                <a href="https://stackoverflow.com/questions/6996704/how-to-check-variable-type-at-runtime-in-go-language">checking types</a>
 	      )
     </li>
     <li>Join slack! Make a little project review etc.</li>
@@ -17,3 +18,4 @@
   <li>
   How to exec string in go? Exemple <a href="https://github.com/1-sw/go-internship/blob/main/day/3/questions/exec_string.go">
   </li>
+
