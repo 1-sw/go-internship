@@ -35,7 +35,7 @@ func integers() {
     fmt.Println(test1,test2,someUintptr)
 }
 
-func floats() {
+func floats() (float32, float64) {
     fmt.Println("Testing: FLOATS")
     var (
         someFloat32 float32 = 2123.123123
@@ -47,6 +47,12 @@ func floats() {
             fmt.Println(someFloat32)
         }
     }()
+
+    //This function can return many nums!!
+    getAllVars := func () (float32, float64) {
+        return someFloat32,someFloat64
+    }
+    return getAllVars()
 }
 
 func main() {
