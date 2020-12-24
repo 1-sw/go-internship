@@ -19,7 +19,7 @@
 
   <tr>
     <th>Day number</th>
-    <th>Date</th>
+    <th><a href="https://github.com/1-sw/go-internship/blob/main/txt/table_description.txt">Date</a></th>
     <th>Hours</th>
     <th>Description</th>
     <th><a href="https://github.com/1-sw/go-internship/blob/main/day/">Link</a></th>
