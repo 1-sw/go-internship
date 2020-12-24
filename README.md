@@ -2,7 +2,7 @@
 
 <p>In this repo:<br>
 <ol>
-  <li>Simple notes</li>
+  <li><a href="https://github.com/1-sw/go-internship/tree/main/txt">Simple notes</a></li>
   <li>Sources</li>
   <li>Questions</li>
   <li>Exercises</li>
