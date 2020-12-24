@@ -35,6 +35,7 @@ func integers() {
     fmt.Println(test1,test2,someUintptr)
 }
 
+
 func floats() (float32, float64) {
     fmt.Println("Testing: FLOATS")
     var (
@@ -59,13 +60,13 @@ func floats() (float32, float64) {
     return getAllVars()
 }
 
+
 func main() {
-    
+
     integers()
     //interesting:
     someFloat32,someFloat64 := floats()
     fmt.Println(someFloat32, someFloat64)
-
-
+    mixString("lol")
     
 }
