@@ -57,5 +57,9 @@ func floats() (float32, float64) {
 
 func main() {
     integers()
-    floats()
+
+    //interesting:
+    someFloat32,someFloat64 := floats()
+    fmt.Println(someFloat32, someFloat64)
+    
 }
