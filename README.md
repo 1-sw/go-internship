@@ -7,7 +7,6 @@
   <li>Questions</li>
   <li>Exercises</li>
 </ol>
-
 <p>About file structure and this repo:<br>
 <ol>
   <li>Every internship day I`ll start by adding directory (you can see progress in it)</li>
@@ -46,8 +45,8 @@
   <tr>
     <th>3</th>
     <th>24.12.2020</th>
-    <th>+-1</th>
-    <th>Working on book tasks</th>
+    <th>+-4</th>
+    <th>Working on book tasks, reading, writing types demo</th>
     <th><a href="https://github.com/1-sw/go-internship/blob/main/day/3/">Files</a></th>
   </tr>
 
