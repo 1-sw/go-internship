@@ -20,14 +20,26 @@ const (
 	MAX0_8 byte = 0b00000000 //  -> (0|256)
 )
 
-func getByteNum(size string) byte {
-	var varToReturn byte
-	switch size {
-	case "MIN": 
-		varToReturn = BIT0
+func getByteValueByCount(countOfSymbols uint8, type01 uint8) byte {
+	switch type01 {
+		case 0: 
+			return BIT0
+		case 1:
+			switch countOfSymbols {
+				case 2 :
+					return MAX1_2
+				case 3 :
+					return MAX1_3				
+				case 4 :
+					return MAX1_4				
+				case 8 :
+					return MAX1_8							
+			}
+		default:
+			return MAX0_8
 	}
-	return varToReturn
+	return BIT0
 }
 func main() {
-	fmt.Println(BIT0, MAX0_2, MAX0_3, MAX0_8) 
+	fmt.Println(getByteValueByCount(2,1)) 
 }
