@@ -14,3 +14,6 @@
   <li>
     So, I try to understand wats going on with strings (<a href="https://github.com/1-sw/go-internship/blob/main/day/3/string_demo.go">for example, here</a>)
   </li>
+  <li>
+  How to exec string in go? Exemple <a href="https://github.com/1-sw/go-internship/blob/main/day/3/questions/exec_string.go">
+  </li>
