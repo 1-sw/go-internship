@@ -55,6 +55,6 @@
     <th>25.12.2020</th>
     <th>+-1</th>
     <th>In process <a href="https://github.com/1-sw/go-internship/blob/main/day/4/ABOUT.md">-></a></th>
-    <th><a href="https://github.com/1-sw/go-internship/blob/main/day/4/">Files</a></th>
+    <th><a href="https://github.com/1-sw/go-internship/blob/main/day/4/ABOUT.md">Files</a></th>
   </tr>
 </table>
