@@ -1,1 +1,3 @@
 http/https
+tcp/ip
+memory managment

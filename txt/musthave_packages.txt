@@ -1,5 +1,14 @@
 From https://github.com/sipcapture/homer-app/blob/master/main.go:
-Standart lib.: fla, fmt, net/http, net/url, os, strings, time
+
+Standart lib.: 
+  fla
+  fmt
+  net/http
+  net/url
+  os
+  strings
+  time
+
 Import:
   github.com/influxdata/influxdb1-client
   github.com/influxdata/influxdb1-client/v2
