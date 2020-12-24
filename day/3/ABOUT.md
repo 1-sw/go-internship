@@ -5,6 +5,7 @@
 	      (
 	        <a href="https://medium.com/golangspec/conversions-in-go-4301e8d84067">types and convertions</a>,
           <a href="https://golangbyexample.com/all-basic-data-types-golang/">data types</a>,
+          <a href="https://tour.golang.org/basics/7">named values</a>
 	      )
     </li>
   </ul>

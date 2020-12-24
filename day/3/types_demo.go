@@ -49,17 +49,23 @@ func floats() (float32, float64) {
     }()
 
     //This function can return many nums!!
-    getAllVars := func () (float32, float64) {
-        return someFloat32,someFloat64
+    getAllVars := func () (someFloat32 float32, someFloat64 float64) {
+        //without columns belllow func`ll return 0 and 0
+        //because in this scope this values only declared
+        someFloat32 = 2123.123123
+        someFloat64 = 2123.123123
+        return
     }
     return getAllVars()
 }
 
 func main() {
+    
     integers()
-
     //interesting:
     someFloat32,someFloat64 := floats()
     fmt.Println(someFloat32, someFloat64)
+
+
     
 }
