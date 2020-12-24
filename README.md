@@ -46,7 +46,7 @@
     <th>3</th>
     <th>24.12.2020</th>
     <th>+-4</th>
-    <th>Working on book tasks, reading, writing types demo</th>
+    <th>Working on book tasks, reading, writing types demo, Join slack!</th>
     <th><a href="https://github.com/1-sw/go-internship/blob/main/day/3/">Files</a></th>
   </tr>
 

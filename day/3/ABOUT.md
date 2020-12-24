@@ -8,6 +8,6 @@
           <a href="https://tour.golang.org/basics/7">named values</a>
 	      )
     </li>
-    
+    <li>Join slack! Make a little project review etc.</li>
   </ul>
 
