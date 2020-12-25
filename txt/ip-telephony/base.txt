@@ -1,0 +1,8 @@
+To understand, what does IP-teleophony means and although SIP and VOIP
+I should read about :
+1. IP/TCP
+2. SIP,VOIP
+3. Networking
+For better understanding I will split every topic on two parts: native lang and eng.
+Lets get start;
+

@@ -1,0 +1,7 @@
+From Eduard:
+ https://ru.wikipedia.org/wiki/IP-телефония
+ https://blog.ringostat.com/ru/prostymi-slovami-chto-takoe-sip-telefoniya/
+ https://new-tel.net/blog/chem-otlichaetsya-sip-ot-voip/
+ new-tel.net
+ https://github.com/sipcapture/
+
