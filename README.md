@@ -53,8 +53,9 @@
   <tr>
     <th>4</th>
     <th>25.12.2020</th>
-    <th>+-1</th>
-    <th>In process <a href="https://github.com/1-sw/go-internship/blob/main/day/4/ABOUT.md">-></a></th>
+    <th>+-3</th>
+    <th>Reading <a href="https://github.com/1-sw/go-internship/blob/main/txt/links.txt">links</a>)
+        <a href="https://github.com/1-sw/go-internship/blob/main/day/4/ABOUT.md">-></a></th>
     <th><a href="https://github.com/1-sw/go-internship/blob/main/day/4/ABOUT.md">Files</a></th>
   </tr>
 </table>
