@@ -56,6 +56,13 @@
     <th>+-3</th>
     <th>Reading (<a href="https://github.com/1-sw/go-internship/blob/main/txt/links.txt">links</a>)
         <a href="https://github.com/1-sw/go-internship/blob/main/day/4/ABOUT.md">-></a></th>
-    <th><a href="https://github.com/1-sw/go-internship/blob/main/day/4/ABOUT.md">Files</a></th>
+    <th><a href="https://github.com/1-sw/go-internship/blob/main/day/4/">Files</a></th>
   </tr>
+
+  <tr>
+    <th>5</th>
+    <th>26.12.2020</th>
+    <th>+-3</th>
+    <th>In process</th>
+    <th>Waiting for files</th>
 </table>
