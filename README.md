@@ -15,7 +15,17 @@
   <li>Some pattern for the go project you may see <a href="https://github.com/golang-standards/project-layout">here</a></li>
 </ol>
 
-<p>Every day description<br>
+<br>How to install go?</br>
+You have to download go sources: 
+<sup>sudo wget https://dl.google.com/go/go1.15.5.linux-amd64.tar.gz</sup><br>
+Next, unzip sources to your dir/local env. etc.: 
+<sup>sudo tar -C /usr/local/ -xzf go1.15.5.linux-amd64.tar.gz</sup><br>
+After, delet archive with sources in your dir where you download it:
+<sup>sudo rm -rf go1.15.5.linux-amd64.tar.gz</sup><br>
+Save path to go bin file in your .bashrc: 
+<sup>sudo export PATH=$PATH:/usr/local/go/bin</sup><br>
+
+<p>Every day logs<br>
 <table style="width:100%">
 
   <tr>
