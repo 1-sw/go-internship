@@ -1,4 +1,0 @@
-http/https _
-tcp/ip      \_networking
-sip/voip   _/
-memory managment
