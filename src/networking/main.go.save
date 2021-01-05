@@ -1,0 +1,21 @@
+package main
+
+import (
+    "net"
+)
+
+
+
+/*
+func main() {
+   
+
+func startServer() {
+    server, err := net.Listen("tcp","127.0.0.1:6060")
+    if(err == nil) {
+        for {
+           server.Accept()
+        }
+    }
+}
+
