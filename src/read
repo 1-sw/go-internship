@@ -1,0 +1,20 @@
+WebRTC
+How Web Real time communiation works:
+[1] User 'A' open page with WebRTC content
+[2] Browser asking (if neccesery) for an microphone and camera access
+[3] SDP package initing
+    SDP package is text based package wich include all must-have parameters
+    for connecting to 'A' (codecs,addrs.etc.)
+[4] Transpoting SDP to user 'B'  by WebSocket + Signal Server
+[5] User 'B' takes SDP package and make simple SDP package, but with depence
+    on data from 'A' SDP
+[6] Network monitoring, getting outter IP-addres of clients by getting them
+    STAN-server addres
+    [1] checking outter IP-addres with inner client addres for understand:
+    in this system NAT-server or not. If NAT, we have to understand, how 
+    UDP packages transporting inside. 
+    [2] Some times in systems used Double NAT server, so in this case in system
+    used TURN server, not STAN. (Needs to remake P2P connection to client-server)
+[7] Done, if everything ok, we are connected, sometimes in system will rings 
+    onicecandidate event, it contains information about NAT-settings, IP-addrs, 
+    attempts to connect etc.
