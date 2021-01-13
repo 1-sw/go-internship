@@ -48,13 +48,10 @@ func main() {
 
   by11 := Byte{ Bits: []Bit { b0,b1,b1,b1, },}
   by12 := Byte{ Bits: []Bit { b1,b1,b1,b1, },}
-
   by21 := Byte{ Bits: []Bit { b0,b0,b0,b0, },}
   by22 := Byte{ Bits: []Bit { b0,b0,b0,b0, },}
-
   by31 := Byte{ Bits: []Bit { b0,b0,b0,b0, },}
   by32 := Byte{ Bits: []Bit { b0,b0,b0,b0, },}
-
   by41 := Byte{ Bits: []Bit { b0,b0,b0,b0, },}
   by42 := Byte{ Bits: []Bit { b0,b0,b0,b1, },}
 
@@ -64,12 +61,11 @@ func main() {
     Port: 8080,
   }
 
-
-  fmt.Println("___LOCALHOST____")
-  fmt.Println("___SUBNET:")
+  fmt.Println("-----------LOCALHOST-----------")
+  fmt.Println("-----------SUBNET--------------")
   ReadBytesFromBool(localhost.NetworkAddr)
-  fmt.Println("___HOSTS:")
+  fmt.Println("-----------HOSTS---------------")
   ReadBytesFromBool(localhost.Hosts)
-
+  fmt.Println("-------------------------------")
 
 }
