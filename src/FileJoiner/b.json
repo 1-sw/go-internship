@@ -1,0 +1,163 @@
+{
+  "auth": "ok",
+  "data": {
+    "alias": "home",
+    "config": {
+      "columns": 18,
+      "gridType": "fit",
+      "ignoreMinSize": "warning",
+      "maxrows": 18,
+      "pushing": true
+    },
+    "dashboardId": "home",
+    "id": "home",
+    "name": "Home",
+    "param": "param",
+    "selectedItem": "",
+    "shared": false,
+    "type": 3,
+    "weight": 10,
+    "widgets": [
+      {
+        "cols": 15,
+        "config": {
+          "title": "result IN"
+        },
+        "id": "result166",
+        "isDismissed": true,
+        "isWarning": false,
+        "minItemCols": 1,
+        "minItemRows": 1,
+        "name": "result",
+        "output": {},
+        "rows": 18,
+        "strongIndex": "ResultWidgetComponent",
+        "title": "Display Results",
+        "x": 3,
+        "y": 0
+      },
+      {
+        "cols": 3,
+        "config": {
+          "datePattern": "YYYY-MM-DD",
+          "fontSizeClock": 22,
+          "fontSizeDate": 20,
+          "id": "clock186",
+          "location": {
+            "desc": "Europe/Astrakhan",
+            "name": "Europe/Astrakhan",
+            "offset": 240
+          },
+          "radius": 43.70833435058594,
+          "showAnalog": "Both",
+          "showDate": true,
+          "showseconds": false,
+          "timePattern": "HH:mm:ss",
+          "title": "Home Clock"
+        },
+        "id": "clock186",
+        "isDismissed": true,
+        "isWarning": true,
+        "name": "clock",
+        "output": {},
+        "rows": 5,
+        "strongIndex": "ClockWidgetComponent",
+        "title": "World Clock",
+        "x": 0,
+        "y": 13
+      },
+      {
+        "cols": 3,
+        "config": {
+          "config": {
+            "profile": "call_h20",
+            "protocol_id": {
+              "name": "TDR",
+              "value": 60
+            },
+            "protocol_profile": {
+              "name": "call_h20",
+              "value": "call_h20"
+            },
+            "searchbutton": true,
+            "title": "TDR Call Search",
+            "type": "TDR"
+          },
+          "countFieldColumns": 1,
+          "fields": [
+            {
+              "field_name": "callid",
+              "hepid": 60,
+              "name": "60:call_h20:callid",
+              "selection": "Call-ID",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "field_name": "ruri_user",
+              "hepid": 60,
+              "name": "60:call_h20:ruri_user",
+              "selection": "RURI User",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "field_name": "from_user",
+              "hepid": 60,
+              "name": "60:call_h20:from_user",
+              "selection": "From User",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "field_name": "status",
+              "hepid": 60,
+              "name": "60:call_h20:status",
+              "selection": "Status",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "field_name": "source_ip",
+              "hepid": 60,
+              "name": "60:call_h20:source_ip",
+              "selection": "Source IP",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "field_name": "destination_ip",
+              "hepid": 60,
+              "name": "60:call_h20:destination_ip",
+              "selection": "Dest IP",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "field_name": "targetResultsContainer",
+              "hepid": 60,
+              "name": "60:call_h20:targetResultsContainer",
+              "selection": "Results Container",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "title": "TDR Call Search"
+        },
+        "id": "display-results409",
+        "isWarning": false,
+        "minItemCols": 1,
+        "minItemRows": 1,
+        "name": "display-results",
+        "output": {},
+        "rows": 13,
+        "strongIndex": "ProtosearchWidgetComponent",
+        "title": "TDR Call Search",
+        "x": 0,
+        "y": 0
+      }
+    ]
+  },
+  "status": "ok",
+  "total": 1
+}

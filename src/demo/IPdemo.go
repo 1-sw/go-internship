@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+import "mask"
 
 type Bit struct {
   Value bool
@@ -15,6 +15,14 @@ type IP struct {
   NetworkAddr []Byte
   Hosts []Byte
   Port int
+}
+
+func AND(r int,l int) int {
+  if(r == i && r == 1) {
+    return 1
+  } else {
+    return 0
+  }
 }
 
 func ConvertToBitFromBool(b bool) int {

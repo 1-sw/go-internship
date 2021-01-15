@@ -12,7 +12,4 @@ func AND(r int,l int) int {
   }
 }
 
-func main() {
 
-
-}
